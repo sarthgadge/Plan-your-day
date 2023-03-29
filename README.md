@@ -1,6 +1,6 @@
 # Plan your Day (To-Do list)
 
-Project is hosted here --> https://sarthgadge.github.io/Plan-your-Day/
+Project is hosted here --> https://sarthgadge.github.io/Plan-your-day/
 
 Plan your Day is a place where people can add tasks which they want to do. It has an add, edit and delete options
 
